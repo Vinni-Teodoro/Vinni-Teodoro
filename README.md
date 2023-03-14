@@ -19,7 +19,7 @@ Eu sou um estudante de Ciências da Computação. Sou um Entusiasta de Tecnologi
 
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  Eu gosto de trabalhar com
   - 📊 Machine Learning & Dados
-  - 🖼 Inteligência Artificial
+  - 🤖 Inteligência Artificial
   - ⚙️ Desenvolvimento Back-end
 
 
