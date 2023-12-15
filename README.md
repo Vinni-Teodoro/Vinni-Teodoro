@@ -8,20 +8,21 @@
 
 
 ### Um pouco sobre mim... <img src="https://media.giphy.com/media/kimWBtJDjWcwFH2nRB/giphy.gif" width="50"> 
-Eu sou um estudante de Ciências da Computação. Sou um Entusiasta de Tecnologia 💻 😃 apaixonado por aprender e trabalhar com novas tecnologias.  <br/><br/>
+Formado em Ciências da Computação. Sou um Entusiasta de Tecnologia 💻 😃 apaixonado por aprender e trabalhar com novas tecnologias.  <br/><br/>
 
 
 ## ⚡️ Alguns fatos
 
-- 🔭 Atualmente estou trabalhando com desenvolvimento mobile 👨🏼‍💻
-- 🌱 Aprendendo Kotlin
+- 🔭 Atualmente estou trabalhando com desenvolvimento Back-end 👨🏼‍💻
+- 🌱 Aprendendo Python
 <img width="490" height="270" src="https://media.giphy.com/media/9B8wYztAoe1zO/source.gif" align=right>
 
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  Eu gosto de trabalhar com
-  - 📱 Desenvolvimento Mobile
-  - 📊 Machine Learning & Dados
-  - 🤖 Inteligência Artificial
   - ⚙️ Desenvolvimento Back-end
+  - 📊 Machine Learning & Dados
+  - 📱 Desenvolvimento Mobile
+  - 🤖 Inteligência Artificial
+    
   
 
 
@@ -30,15 +31,16 @@ Eu sou um estudante de Ciências da Computação. Sou um Entusiasta de Tecnologi
 
 
 ### ⚙️ Ferramentas e tecnologias que eu uso
-<code><img height="30" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg"></code>
-<code><img height="30" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"></code>
-<code><img height="30" src="https://www.vectorlogo.zone/logos/java/java-icon.svg"></code>
 <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></code>
-<code><img height="30" src="https://avatars3.githubusercontent.com/u/18133?s=200&v=4"></code>
-<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg"></code>
-<code><img height="30" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg"></code>
 <code><img height="30" src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg"></code>
+<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg"></code>
 <code><img height="30" src="https://avatars1.githubusercontent.com/u/45120?s=200&v=4"></code>
+<code><img height="30" src="https://avatars3.githubusercontent.com/u/18133?s=200&v=4"></code>
+
+<code><img height="30" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg"></code>
+<code><img height="30" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg"></code>
+
+<code><img height="30" src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="30" src="https://avatars1.githubusercontent.com/u/1517864?s=200&v=4"></code>
 
